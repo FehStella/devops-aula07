@@ -1,5 +1,5 @@
 TAB = []
-def inicializar() :
+def inicializar():
 	TAB.append(['.','.','.'])
 	TAB.append(['.','.','.'])
 	TAB.append(['.','.','.'])
