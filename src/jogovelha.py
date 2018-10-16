@@ -1,5 +1,9 @@
 TAB = []
+v1.1
+v1.1
+
 v1.1-analise
+ master
 def inicializar():
 	TAB.append(['.','.','.'])
 	TAB.append(['.','.','.'])
@@ -26,7 +30,10 @@ def main():
 if __name__ == "__main__":
 	main()
 
+ v1.1
 
+
+master
 def inicializar() :
   TAB.append(['.','.','.'])
   TAB.append(['.','.','.'])
