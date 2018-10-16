@@ -6,6 +6,7 @@ lin = 1
 col = 1
 jogador = 'X'
 jogovelha.inicializar()
+ v1.1
 v1.1
 jogovelha.jogar(jogador lin, col)
 jogo= jogovelha.tabuleiro()
@@ -29,6 +30,8 @@ if erro:
   sys.exit(1)
 else:
   sys.exit(0)
+
+ master
 jogovelha.jogar(jogador, lin, col)
 jogo = jogovelha.tabuleiro()
 
@@ -50,4 +53,7 @@ if erro:
 	sys.exit(1)
 else:
 	sys.exit(0)
+ v1.1
+ master
+
  master
